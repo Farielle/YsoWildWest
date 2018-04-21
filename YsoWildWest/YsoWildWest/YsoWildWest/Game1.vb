@@ -6,7 +6,7 @@ Public Class Game1
 
     Private WithEvents graphics As GraphicsDeviceManager
     Private WithEvents spriteBatch As SpriteBatch
-
+    'aaa'
 
     'GameState
     Private Enum GameStates
